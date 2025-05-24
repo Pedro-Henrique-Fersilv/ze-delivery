@@ -12,7 +12,7 @@ Aplicação web desenvolvida com Flask que permite ao usuário consultar serviç
 ### Framework de Aplicação Web
 -[Flask](https://flask.palletsprojects.com/en/stable/)
 
-## Bibliotecas
+### Bibliotecas
 -[mysql-connector-python](https://pypi.org/project/mysql-connector-python/)
 
 ### Manipulação de Dados
@@ -21,14 +21,14 @@ Aplicação web desenvolvida com Flask que permite ao usuário consultar serviç
 ### Estilização
 -[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## Pré-requisitos
+### Pré-requisitos
 
 - **Python 3.6 ou superior**
 - **pip** (gerenciador de pacotes do Python)
 - **MySQL Server** (com acesso local configurado)
 - **Um editor ou terminal para executar a aplicação**
 
-## Contato
+### Contato
 
 - **Email**: [pedrohenriquesilva08102005@gmail.com](pedrohenriquesilva08102005@gmail.com)
 - **LinkedIn**: [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique-2642a2248/)
